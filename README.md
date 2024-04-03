@@ -1,1 +1,1 @@
-Ceci est une application de recette 
+Ceci est une application de recette (en cours de construction!)
